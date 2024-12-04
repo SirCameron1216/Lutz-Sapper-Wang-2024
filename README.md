@@ -6,7 +6,7 @@ Inference Models
 Deep Neural Network Model  
 
 # Datasets
-Density - [Training Data](main/dens_green1_train.xlsx), [Inference Data]  
+Density - [Training Data](dens_green1_train.xlsx), [Inference Data]  
 Viscosity - [Training Data], [Inference Data]  
 Surface Tension - [Training Data], [Inference Data]  
 
